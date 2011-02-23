@@ -1,6 +1,5 @@
 === Plugin Name ===
 
-Contributors:      WhippleHill
 Plugin Name:       Modify Author URL
 Plugin URI:        http://wordpress.org/extend/plugins/modify-author-url/
 Tags:              author,url,slug
